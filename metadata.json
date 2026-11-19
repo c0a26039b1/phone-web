@@ -1,0 +1,6 @@
+{
+  "name": "MrRブラウザ",
+  "description": "広告・トラッカー・ポップアップを強力にブロックする高速・プライバシー保護Webブラウザアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
